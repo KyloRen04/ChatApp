@@ -9,7 +9,6 @@ ChatBot
 ## Features/Components
 - Uses React Js for UI
 - Backend using NodeJs
-- Authentication using JWT
 - MongoDB for database 
 - Socket.io for realtime communication
 - CSS - styled components
