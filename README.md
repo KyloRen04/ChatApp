@@ -17,8 +17,8 @@ ChatBot
 
 ## Installation
 - Once you have downloaded or cloned this repository, run `npm install` inside both the directories.
-- To run server code, open terminal in your IDE and run `npm run start`  
-- Change the mongoDB url
-- To run client code, open terminal in your IDE and run `npm run dev`
+- Change the mongoDB url in server.
+- To run server code, open terminal in your IDE and run `npm run start`.  
+- To run client code, open terminal in your IDE and run `npm run dev`.
 
 Happy Coding :)
